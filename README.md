@@ -1,4 +1,4 @@
-<h2 align="left">Ola! Meu nome é Nickolas!</h2>
+<h2 align="left">Hello! My name is Nickolas, Systems Developer | UX/UI Enthusiast!</h2>
 
 ###
 
